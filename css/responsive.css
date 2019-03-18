@@ -74,5 +74,7 @@
     display: none;
   }
   
-  #nav nav a 
+  #nav nav a.menu-icon {
+    display: block;
+  }
 }
