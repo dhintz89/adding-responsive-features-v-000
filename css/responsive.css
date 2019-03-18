@@ -33,7 +33,9 @@
     top: 72px;
   }
   
-  .col
+  .col-3 {
+    
+  }
 }
 
 @media only screen and (max-width: 800px) {
